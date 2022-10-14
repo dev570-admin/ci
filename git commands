@@ -1,0 +1,15 @@
+   | Set Up a Git Repository          |
+=========================================
+
+git init   ->  Initialize an empty Git repo in the current project.
+git clone (Repo URL) -> Clone the repository from GitHub to the project folder.
+git remote add origin https://github.com/username/(repo_name).git  -> Create a remote repo pointing on your existing GitHub repository.
+
+
+git add .   ->Add the whole directory changes to staging (no delete files).
+git commit -m "message "	 ->Commits the changes with a custom message.
+
+git push origin (branch_name like master/main)	->Push branch to the Origin.
+
+ git push –all	Push all the local branches to the specified remote repository.
+
