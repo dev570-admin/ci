@@ -1,3 +1,6 @@
+Note: if any error occurd for depricated or viesion controll use this code to those files 
+	this error is for php 8 version so you have downgrade php 8 to 7 or add this code 
+   #[\AllowDynamicProperties]
 ###################
 What is CodeIgniter
 ###################
